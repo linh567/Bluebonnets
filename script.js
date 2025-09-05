@@ -55,7 +55,7 @@ function openCollageTab(topic) {
             `;
             photos = [
                 "assets/leadership1.jpg",
-                "assets/leadership2.jpg",
+                "assets/leadership2.JPG",
                 "assets/leadership3.png",
                 "assets/passion2.png",
             ];
