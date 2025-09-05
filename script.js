@@ -40,7 +40,7 @@ function openCollageTab(topic) {
                 "assets/bluebonnets4.jpg",
                 "assets/bluebonnets5.JPG",
                 "assets/bluebonnets6.JPG",
-                "assets/bluebonnets7.jpg"
+                "assets/bluebonnets7.jpg",
             ];
             break;
 
